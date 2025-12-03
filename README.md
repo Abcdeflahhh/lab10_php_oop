@@ -1,5 +1,5 @@
-# 🌑 **Project Title — Dark Theme Header**
-### 👨‍💻 *Your Name | Developer & Tech Explorer*
+# 🌑 **Project Title — LAB10_PHP_OOP**
+### 👨‍💻 *Aflah Athalah Tamam Kapukong | Developer & Tech Explorer*
 
 <p align="left">
   <!-- Python -->
@@ -233,23 +233,23 @@ Tambahkan screenshot kamu di folder:
 
 Contoh:
 
-![Form Input](screenshots/form.png)
+![gambar](https://github.com/Abcdeflahhh/lab10_php_oop/blob/23ed09d21708e7dc27a940c98553f046e5bb7cfb/Image/2025-12-03%2019_58_39-Input%20Data%20Mahasiswa%20and%201%20more%20page%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge.png)
 
 🎉 Conclusion
 
-Pada praktikum ini, kamu telah mempelajari:
+#### Pada praktikum ini, kamu telah mempelajari:
 
-Fondasi OOP pada PHP
+* Fondasi OOP pada PHP
 
-Pembuatan class, object, constructor
+* Pembuatan class, object, constructor
 
-Penerapan library untuk form
+* Penerapan library untuk form
 
-Koneksi database menggunakan class
+* Koneksi database menggunakan class
 
-Modularisasi program profesional
+* Modularisasi program profesional
 
-Struktur project yang rapi memudahkan pengembangan di masa depan.
+* Struktur project yang rapi memudahkan pengembangan di masa depan.
 
 🤝 Contact
 
@@ -258,3 +258,14 @@ Jika ingin mengembangkan atau menambah fitur, silakan reach out!
 📧 Email : aflahtamam@example.com
 
 🐙 GitHub : https://github.com/AflahTamam
+
+<p align="left">
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow" />
+
+  <!-- XAMPP -->
+  <img src="https://img.shields.io/badge/XAMPP-000000?style=for-the-badge&logo=xampp&logoColor=orange" />
+
+  <!-- GitHub -->
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
