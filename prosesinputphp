@@ -1,0 +1,20 @@
+<?php
+include "database.php";
+
+$db = new Database();
+
+$data = [
+    "nim" => $_POST['nim'],
+    "nama" => $_POST['nama'],
+    "alamat" => $_POST['alamat']
+];
+
+$insert = $db->insert("mahasiswa", $data);
+
+if ($insert) {
+    echo "Data berhasil disimpan!<br>";
+    echo "<a href='form_input.php'>Kembali</a>";
+} else {
+    echo "Gagal menyimpan data.";
+}
+?>
